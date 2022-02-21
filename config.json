@@ -1,0 +1,9 @@
+{
+	"ip":"misonly.aternos.me",
+	"port": "38039",
+	"name": "AI-0",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
